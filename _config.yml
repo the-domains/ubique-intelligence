@@ -1,0 +1,28 @@
+name: Ubique Intelligence
+favicon: null
+layout_spectrum: 0.4610084015876055
+typography_spectrum: 0.05582707142457366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5010444610379636
+  lightness: 0.7232511765323579
+  saturation: 0.08443427691236138
+  rhythmicContrast: 0.41562017798423767
+purpose: []
